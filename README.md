@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Rana</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about Crafting Innovative Web Solutions | Code Enthusiast
+<h3 align="center"> I'm Gaurav, a dedicated full-stack developer with a passion for crafting seamless web applications
 </h3>
+
 <img align="right" alt="coding" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrana12&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrana12" /> </p>
 
