@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **HTML CSS JAVASCRIPT JAVA React....**
 - 📫 How to reach me **gauravp1335@gmail.com**
-<h3><a href="https://gauravrana12.github.io/" target='blank' >Portfolio</a></h3>
+<h3><a href="https://drive.google.com/file/d/1lxwKdNzUV80HKqGErKn87FnuslC5QoB8/view?usp=sharing" attributes-list download target='_blank' >Resume</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gaurav-rana-a9aa52267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav rana" height="30" width="40" /></a>
