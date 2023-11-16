@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **HTML CSS JAVASCRIPT JAVA React....**
+- 💬 Ask me about **Javascript, React, Express.js...**
 - 📫 How to reach me **gauravp1335@gmail.com**
 - This is my <a href="https://drive.google.com/file/d/1lxwKdNzUV80HKqGErKn87FnuslC5QoB8/view?usp=sharing" attributes-list download target='_blank' >Resume</a>
 - This is my <a href="https://gauravrana12.github.io/" target='_blank' >Portfolio</a>
