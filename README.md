@@ -2,7 +2,7 @@
 <h3 align="center"> I'm Gaurav, a dedicated full-stack developer with a passion for crafting seamless web applications
 </h3>
 
-<img align="right" alt="coding" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="400" />
+<img align="right" alt="coding" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="400" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravrana12&label=Profile%20views&color=0e75b6&style=flat" alt="gauravrana12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
