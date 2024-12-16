@@ -11,7 +11,6 @@
 - 💬 Ask me about **Javascript, React, Express.js...**
 - 📫 How to reach me **gauravp1335@gmail.com**
 - This is my <a href="https://drive.google.com/file/d/1xj5-WUalpaiIk54bloBHIAO62UHDgNIr/view?usp=sharing" attributes-list download target='_blank' >Resume</a>
-- This is my <a href="https://gauravrana12.github.io/" target='_blank' >Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
