@@ -25,7 +25,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![passport](https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GauravRana12&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GauravRana12&theme=dark&hide_border=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GauravRana12)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravRana12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
