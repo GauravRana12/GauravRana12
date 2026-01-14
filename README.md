@@ -10,7 +10,6 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **Javascript, React, Express.js...**
 - 📫 How to reach me **gauravp1335@gmail.com**
-- This is my <a href="https://drive.google.com/file/d/1xj5-WUalpaiIk54bloBHIAO62UHDgNIr/view?usp=sharing" attributes-list download target='_blank' >Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
